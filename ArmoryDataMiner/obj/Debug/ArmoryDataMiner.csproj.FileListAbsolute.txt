@@ -1,0 +1,5 @@
+C:\Websites\ArmoryDataMiner\obj\Debug\ResolveAssemblyReference.cache
+C:\Websites\ArmoryDataMiner\bin\Debug\ArmoryDataMiner.exe
+C:\Websites\ArmoryDataMiner\bin\Debug\ArmoryDataMiner.pdb
+C:\Websites\ArmoryDataMiner\obj\Debug\ArmoryDataMiner.exe
+C:\Websites\ArmoryDataMiner\obj\Debug\ArmoryDataMiner.pdb

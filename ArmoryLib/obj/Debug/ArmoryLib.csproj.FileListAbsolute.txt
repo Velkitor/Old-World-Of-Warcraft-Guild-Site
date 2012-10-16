@@ -1,0 +1,5 @@
+C:\Websites\OOJ\bin\ArmoryLib.dll
+C:\Websites\OOJ\bin\ArmoryLib.pdb
+C:\Websites\ArmoryLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Websites\ArmoryLib\obj\Debug\ArmoryLib.dll
+C:\Websites\ArmoryLib\obj\Debug\ArmoryLib.pdb

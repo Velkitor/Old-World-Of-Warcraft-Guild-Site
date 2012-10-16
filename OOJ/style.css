@@ -1,0 +1,15 @@
+﻿body 
+{
+	margin:0px;
+}
+a
+{
+	color:#ded104;
+	text-decoration:none;
+}
+a.gallery
+{
+	color:#ded104;
+	text-decoration:none;
+	font:160% sans-serif;
+}
